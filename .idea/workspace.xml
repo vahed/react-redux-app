@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c40cef14-384f-4a6d-bc75-1ad3bcf7a8b9" name="Default Changelist" comment="" />
+    <list default="true" id="c40cef14-384f-4a6d-bc75-1ad3bcf7a8b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +69,7 @@
       <workItem from="1593184915905" duration="1203000" />
       <workItem from="1593707168055" duration="2046000" />
       <workItem from="1593851109867" duration="54000" />
-      <workItem from="1595450100475" duration="1243000" />
+      <workItem from="1595450100475" duration="2612000" />
     </task>
     <servers />
   </component>
@@ -75,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1595454875241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595454875241" />
     <state width="1237" height="158" key="GridCell.Tab.0.bottom" timestamp="1593709731442">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
